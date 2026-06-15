@@ -54,10 +54,6 @@ const aries = {
   <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,nestjs,postgres,redis,prisma,docker,kubernetes,linux,git,vscode,figma&perline=14" />
 </a>
 
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=caoxing9&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-
 ### 🐍 Contribution graph
 
 <picture>
